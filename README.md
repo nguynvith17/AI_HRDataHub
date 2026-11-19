@@ -1,5 +1,7 @@
 # AI HR Productivity Hub
 
+[![Python Tests](https://github.com/nguyenvith17/AI_HRDataHub/actions/workflows/main.yml/badge.svg)](https://github.com/nguyenvith17/AI_HRDataHub/actions/workflows/main.yml)
+
 **Recruitment Analytics Pilot · v0.2 · Python / FastAPI / SQLite · Synthetic data only**
 
 A portfolio prototype that transforms fragmented recruitment spreadsheets into validated, auditable recruitment metrics. Based on the author's 5-module product PRD, this repository focuses on **Module 01 (Authentication & Authorization)** and **Module 02 (Recruitment Data Intelligence)**, with minimum activity logging.
