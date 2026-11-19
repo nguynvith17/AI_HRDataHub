@@ -1,6 +1,7 @@
 # AI HR Productivity Hub
 
-[![Python Tests](https://github.com/nguyenvith17/AI_HRDataHub/actions/workflows/main.yml/badge.svg)](https://github.com/nguyenvith17/AI_HRDataHub/actions/workflows/main.yml)
+[![Python Tests](https://github.com/nguyenvith17/AI_HRDataHub/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/nguyenvith17/AI_HRDataHub/actions/workflows/main.yml)
+
 
 **Recruitment Analytics Pilot · v0.2 · Python / FastAPI / SQLite · Synthetic data only**
 
